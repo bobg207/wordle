@@ -12,3 +12,8 @@ Purpose:
 * continue learning Python
 * practice with object-oriented-programming
 * practice building GUI with tkinter library
+* file reading
+
+Future Updates:
+* animate blocks on correct solution
+* track results over time
