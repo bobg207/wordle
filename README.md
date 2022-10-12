@@ -8,3 +8,7 @@ game.py -> Wordle class for building the board and controlling game state
 
 utils.py -> functions for getting a word for each new game and checking whether the players current guess is valid
 
+Purpose:
+* continue learning Python
+* practice with object-oriented-programming
+* practice building GUI with tkinter library
